@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifeddineachouri&show_icons=true&theme=radical&locale=en&layout=compact" alt="saifeddineachouri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifeddineachouri&show_icons=true&locale=en" alt="saifeddineachouri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifeddineachouri&show_icons=true&theme=radical&locale=en" alt="saifeddineachouri" /></p>
